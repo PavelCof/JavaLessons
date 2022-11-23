@@ -1,4 +1,4 @@
-package Lessons;
+package Lessons.HashcodeAndEquals;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -12,7 +12,6 @@ public class HashcodeAndEquals {
 
         map.put(1,"Один");
         map.put(1,"Два");
-
 
         set.add(1);
         set.add(1);
